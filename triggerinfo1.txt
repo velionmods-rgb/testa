@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════
 > SHAX Triggerbot V3.0.1
 ══════════════════════════════════════════════════
-Fixed:
+Fixed (1):
 [+] Activation Keys (15)
 ══════════════════════════════════════════════════
-Added:
+Added (19):
 [+] Changeable FOV Color
 [+] Changeable Hitbox Color
 [+] Changeable Text Color
