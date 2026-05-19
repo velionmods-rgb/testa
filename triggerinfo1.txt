@@ -1,1 +1,26 @@
-test
+══════════════════════════════════════════════════
+> SHAX Triggerbot V3.0.1
+══════════════════════════════════════════════════
+Fixed:
+[+] Activation Keys (15)
+══════════════════════════════════════════════════
+Added:
+[+] Changeable FOV Color
+[+] Changeable Hitbox Color
+[+] Changeable Text Color
+[+] Delay
+[+] Reaction
+[+] Crosshair preview
+[+] Hitbox FOV (5-50)
+[+] Changeable FOV (50-300)
+[+] Hotkeys (4)
+[+] System Info
+[+] Quick Controls
+[+] Status Overlay
+[+] FOV Overlay
+[+] Shot Statistics
+[+] Fallback to CPU if GPU not available
+[+] engine Statistics if online or offline
+[+] Unload Button
+[+] Discord Button
+[+] YouTube Button
