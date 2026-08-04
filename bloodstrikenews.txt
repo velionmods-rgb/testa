@@ -4,6 +4,5 @@
 [+] Dev: 7aybee
 [+] https://discord.gg/shax
 
-- V1.3 SOON!
-
 Newest Version: V1.2
+- V1.3 SOON!
